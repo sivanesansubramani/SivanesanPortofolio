@@ -6,6 +6,16 @@
   }
    */
 
+#gitbutton{
+  float: left;
+  margin-bottom: 0%;  
+}
+#rountbutton{
+  background-color: white;
+  border-radius: 50%;
+  float: left;
+
+}
 
    #under_menu_line {
     margin-top:4px;
@@ -792,7 +802,7 @@ blockquote.blockstyle.border-color-yellow>span.triangle:before {
     position: fixed;
     padding: 15px 0;
     /* background: #00f7d6; */
-    background: url('../img/navbg.jpg')
+    background: url('../img/1121.jpg')
   }
   
   .navbar .max-width {
@@ -838,7 +848,7 @@ blockquote.blockstyle.border-color-yellow>span.triangle:before {
   }
   
   .navbar.sticky .menu li a:hover {
-    color: #f31010;
+    color: #3902ff;
   }
   
   /*  Menu Btn  */
